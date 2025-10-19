@@ -8,12 +8,12 @@ Principal Component Analysis (PCA) workflow for the Advanced Linear Algebra form
 - `notebooks/pca_formative_assignment.ipynb` &mdash; the completed assessment notebook with every template "TO DO" implemented and outputs rendered.
 - `requirements.txt` &mdash; dependencies needed to reproduce the results locally or in Google Colab.
 
-## 🗂️ Dataset highlights
+##  Dataset highlights
 
 - Covers 10 African countries (2019 &amp; 2020) with socio-economic metrics (electricity access, internet adoption, education index, etc.).
 - Includes intentional `NaN` entries and categorical data to demonstrate imputation and encoding as required by the rubric.
 
-## 🚀 Getting started
+##  Getting started
 
 1. **Clone** the repo and create a virtual environment (recommended).
 2. **Install dependencies**:
@@ -46,6 +46,3 @@ Principal Component Analysis (PCA) workflow for the Advanced Linear Algebra form
 - [ ] Reduced-dimensional dataset shape reported and makes sense.
 - [ ] Explained variance plot demonstrates the 95% threshold selection.
 - [ ] Benchmark cell runs without errors (NumPy-only PCA implementation).
-- [ ] README, dataset, and notebook pushed to GitHub before submitting the repository link.
-
-Feel free to adapt the dataset or threshold if your instructor requests variations; just keep the rubric requirements in mind.
