@@ -1,5 +1,7 @@
 # PCA-Formative-Assignment
 
+https://colab.research.google.com/drive/14xRWzOe02905W2GgV7DtjkgHIE3SpqsG?usp=sharing
+
 Principal Component Analysis (PCA) workflow for the Advanced Linear Algebra formative assignment. The repository contains:
 
 - `data/african_development_indicators.csv` &mdash; an African-focused dataset with missing values and the non-numeric `Country` column.
