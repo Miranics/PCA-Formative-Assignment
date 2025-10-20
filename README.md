@@ -40,7 +40,7 @@ Principal Component Analysis (PCA) workflow for the Advanced Linear Algebra form
 | Task 3 | Runtime benchmark on a large synthetic dataset (optimisation requirement). |
 | Interpretation | Summarises findings and ties them back to the rubric. |
 
-## ✅ Submission checklist
+##  Submission checklist
 
 - [ ] All notebook cells executed with visible outputs (plots, tables, variance metrics).
 - [ ] Reduced-dimensional dataset shape reported and makes sense.
